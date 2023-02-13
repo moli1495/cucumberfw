@@ -1,0 +1,5 @@
+target/
+.idea/
+test-output/
+temp.txt
+*.doc
