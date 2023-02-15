@@ -12,7 +12,7 @@ Feature: Login Screen Test
         And user enters "manager" as password
         When user click on login button
         Then user can see the home page title as "actiTIME - Enter Time-Track"
-    @two
+    @three
     Scenario: InValid user test
         Given user enters "admin123" as user id
         And user enters "manager123" as password
